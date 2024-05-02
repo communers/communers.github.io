@@ -5,20 +5,26 @@ subtitle: A community of research software communities
 
 This is a [Hack Day](https://www.software.ac.uk/cw24-hack-day) project from [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) organised by the [Software Sustainability Institute](https://www.software.ac.uk).
 
-Community building is hard - it’s difficult for small groups to get off the ground and maintain momentum once something is running. Many groups struggle with the same issues, and solutions can benefit the wider community - so how can community leaders avoid feelings of isolation and reinventing the wheel, and share knowledge and provide support across communities? Additionally, there may be small communities in similar areas who are not aware of each other. How can we form a community that provides opportunities for community leaders to network, collaborate and support each other?
+**Community building is hard.**
 
-We want community leaders to be able to find each other, support each other and collaborate.
+It’s difficult for small groups to get off the ground and maintain momentum once running. 
+Many groups struggle with the same issues. 
+Solutions can benefit the wider community -- so how can community leaders avoid feelings of isolation and reinventing the wheel, and share knowledge and provide support across communities? Moreover, there may be small communities with overlapping interests who are not aware of each other. 
 
-We envisage several components to this:
+*We want community leaders to be able to find each other, support each other and collaborate.*
 
-- An database of communities 
+**Building a community of communities will be hard.**
+
+We want to provide:
+
+- A database of communities 
 - A channel for community leaders to communicate
 - A list of resources that support community building
 
 For the Hack Day, we are making a start on the [communities database](communities.qmd) and the list of [resources](resources.qmd).
 
-We are in conversation with [The Turing Way](https://book.the-turing-way.org) about using their Slack space, as well as their expertise in community building, to develop and host a channel for community leaders to communicate. This is something we hope to launch in the near future.
+We are in conversation with [The Turing Way](https://book.the-turing-way.org) about using their Slack space, as well as their expertise in community building, to develop and host a channel for community leaders to communicate. We will also reach out to the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org) about this project to see if there is scope for collaboration with them.
 
-The list of resources that support community building.
+We will reach out to the leaders of the communities in our fledgling database to discuss with them whether they are interested in being involved in communeRS, and what sort of community it could be to serve them. We will spread the word in our networks. We envisage that communeRS will grow slowly, organically and collaboratively.
 
 We strongly encourage [contributions](CONTRIBUTING.md) to the database and the resource list. The best way to do that at the moment is by opening an issue or pull request in the [GitHub repo](https://github.com/EllaKaye/communers). In future, we plan to have a Google Form where community leaders can enter their community's details, and have that update the database.
