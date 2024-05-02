@@ -20,7 +20,7 @@ filter_fct <- function(values, name) {
     purrr::map(unique(values), tags$option),
     onchange = glue::glue(
       "Reactable.setFilter(
-        'my-tbl', 
+        'communities-tbl', 
         '{name}', 
         event.target.value  // This is the value of the dropdown menu
       )"
