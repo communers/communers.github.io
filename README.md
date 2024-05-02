@@ -1,4 +1,4 @@
-# CommuneRS: A Community of Research Software Communities
+# CommuneRS: A Community of Research Software Communities <img src="inst/figures/communres-sticker.png" align="right" width="120"/>
 
 ## About
 
@@ -37,3 +37,7 @@ This is a [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/col
 - @habuabba
 
 Feel free to contact the team by [opening a GitHub issue](https://github.com/EllaKaye/communers/issues/new).
+
+## Acknowledgement
+
+Logo Icon from [Community manager icons created by Vectors Tank - Flaticon](https://www.flaticon.com/free-icons/community-manager)
