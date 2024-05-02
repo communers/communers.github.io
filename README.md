@@ -1,5 +1,5 @@
-<img src="inst/figures/communres-sticker.png" align="right" width="120"/>
 # CommuneRS: A Community of Research Software Communities
+<img src="inst/figures/communres-sticker.png" align="right" width="120"/>
 
 ## About
 
