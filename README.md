@@ -17,11 +17,11 @@
 
 ## Contributing
 
-See `CONTRIBUTING.md` to learn how you can contribute to this project.
+See [`CONTRIBUTING.md`](https://github.com/EllaKaye/communers/blob/main/CONTRIBUTING.md) to learn how you can contribute to this project.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.md` for more information.
+Distributed under the MIT License. See [`LICENSE.md`](https://github.com/EllaKaye/communers/blob/main/LICENSE.md) for more information.
 
 ## Contact
 
