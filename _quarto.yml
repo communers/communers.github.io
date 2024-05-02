@@ -3,6 +3,7 @@ project:
 
 website:
   title: "communeRS"
+  favicon: inst/figures/communers-sticker.png
   navbar:
     right:
       - text: Home
@@ -16,9 +17,10 @@ website:
   
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [litera, styles.css]
+      dark: [darkly, styles-dark.css]
+    highlight-style: a11y-dark
+    mainfont: "Atkinson Hyperlegible"
     toc: true
-
-
-
+    
