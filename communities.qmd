@@ -6,6 +6,7 @@ execute:
 
 ```{r}
 library(reactable)
+library(htmltools)
 ```
 
 ```{r}
@@ -13,13 +14,39 @@ communities <- read.csv("communities.csv")
 ```
 
 ```{r}
+filter_fct <- function(values, name) {
+  tags$select(
+    tags$option(value = "", "All"),
+    purrr::map(unique(values), tags$option),
+    onchange = glue::glue(
+      "Reactable.setFilter(
+        'my-tbl', 
+        '{name}', 
+        event.target.value  // This is the value of the dropdown menu
+      )"
+    ),
+    style = "width: 100%; height: 28px;"
+  )
+}
+#filter_fct(communities$Level, "Level")
+```
+
+
+```{r}
 reactable(
   communities,
   columns = list(
+    Community.name = colDef(name = "Community name"),
+    Description = colDef(name = "Description"),
     Website = colDef(cell = function(value) {
-    htmltools::tags$a(href = value, target = "_blank", value)
-    })
-  )
+      tags$a(href = value, target = "_blank", value)
+    }),
+    Level = colDef(name = "Level",
+                   filterInput = filter_fct)
+  ),
+  filterable = TRUE,
+  defaultPageSize = 20,
+  elementId = "communities-tbl"
 )
 ```
 
