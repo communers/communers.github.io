@@ -5,7 +5,7 @@ subtitle: A community of research software communities
 
 This is a [Hack Day](https://www.software.ac.uk/cw24-hack-day) project from [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) organised by the [Software Sustainability Institute](https://www.software.ac.uk).
 
-We are building a community of research software communities. 
+Community building is hard - it’s difficult for small groups to get off the ground and maintain momentum once something is running. Many groups struggle with the same issues, and solutions can benefit the wider community - so how can community leaders avoid feelings of isolation and reinventing the wheel, and share knowledge and provide support across communities? Additionally, there may be small communities in similar areas who are not aware of each other. How can we form a community that provides opportunities for community leaders to network, collaborate and support each other?
 
 We want community leaders to be able to find each other, support each other and collaborate.
 
