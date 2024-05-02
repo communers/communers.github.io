@@ -33,5 +33,7 @@ This is a [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/col
 - @thomaszwagerman
 - @jnywong
 - @rowlandm
+- @mdbarker
+- @habuabba
 
 Feel free to contact the team by [opening a GitHub issue](https://github.com/EllaKaye/communers/issues/new).
