@@ -1,11 +1,24 @@
 ---
-title: "communers"
+title: "communeRS"
+subtitle: A community of research software communities 
 ---
 
-This is a Quarto website.
+This is a [Hack Day](https://www.software.ac.uk/cw24-hack-day) project from [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) organised by the [Software Sustainability Institute](https://www.software.ac.uk).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We are building a community of research software communities. 
 
-```{r}
-1 + 1
-```
+We want community leaders to be able to find each other, support each other and collaborate.
+
+We envisage several components to this:
+
+- An database of communities 
+- A channel for community leaders to communicate
+- A list of resources that support community building
+
+For the Hack Day, we are making a start on the [communities database](communities.qmd) and the list of [resources](resources.qmd).
+
+We are in conversation with [The Turing Way](https://book.the-turing-way.org) about using their Slack space, as well as their expertise in community building, to develop and host a channel for community leaders to communicate. This is something we hope to launch in the near future.
+
+The list of resources that support community building.
+
+We strongly encourage [contributions](CONTRIBUTING.md) to the database and the resource list. The best way to do that at the moment is by opening an issue or pull request in the [GitHub repo](https://github.com/EllaKaye/communers). In future, we plan to have a Google Form where community leaders can enter their community's details, and have that update the database.
