@@ -1,1 +1,5 @@
-# Building a community of communities
+# CommuneRS
+
+## What is CommuneRS?
+
+## Future work
