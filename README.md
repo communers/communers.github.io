@@ -43,15 +43,15 @@ Distributed under the MIT License. See [`LICENSE.md`](https://github.com/EllaKay
 
 This is a [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) Hack Day project created by
 
-- @EllaKaye
-- @alessandrofelder
-- @parnumeric
-- @SaranjeetKaur
-- @thomaszwagerman
-- @jnywong
-- @rowlandm
-- @mdbarker
-- @habuabba
+- Ella Kaye (GitHub: @EllaKaye)
+- Alessandro Felder (GitHub: @alessandrofelder)
+- Dmitry Nikolaenko (GitHub: @parnumeric)
+- Saranjeet Kaur (GitHub: @SaranjeetKaur)
+- Thomas Zwagerman (GitHub: @thomaszwagerman)
+- Jenny Wong (GitHub: @jnywong)
+- Rowland Mosbergen (GitHub: @rowlandm)
+- Michelle Barker (GitHub: @mdbarker)
+- Adamu Habu (GitHub: @habuabba)
 
 Feel free to contact the team by [opening a GitHub issue](https://github.com/EllaKaye/communers/issues/new).
 
