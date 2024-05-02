@@ -1,0 +1,25 @@
+---
+title: Communities
+execute: 
+  echo: false
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+communities <- read.csv("communities.csv")
+```
+
+```{r}
+reactable(
+  communities,
+  columns = list(
+    Website = colDef(cell = function(value) {
+    htmltools::tags$a(href = value, target = "_blank", value)
+    })
+  )
+)
+```
+
