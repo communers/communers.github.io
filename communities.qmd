@@ -41,7 +41,9 @@ reactable(
     Website = colDef(cell = function(value) {
       tags$a(href = value, target = "_blank", value)
     }),
-    Level = colDef(name = "Level",
+    Region = colDef(name = "Region",
+                   filterInput = filter_fct),
+    Theme = colDef(name = "Theme",
                    filterInput = filter_fct)
   ),
   filterable = TRUE,
