@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # CommuneRS: A Community of Research Software Communities
-<img src="inst/figures/communres-sticker.png" align="right" width="120"/>
+<img src="inst/figures/communers-sticker.png" align="right" width="120"/>
 
 ## About
 

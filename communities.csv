@@ -1,23 +1,26 @@
-Community name," Description"," Website",Scale,Theme
-RSE Midlands,"A community of Research Software Engineers (RSEs) within the Midlands in England","https://rse-midlands.github.io/",regional,research-software
-Software Sustainability Institute,"We help people build better software and more sustainable research software to enable world-class research","https://www.software.ac.uk/",national,research-software
-Society of Research Software Engineerin,"Our mission is to establish a research environment that recognises the vital role of software in research","https://society-rse.org",international,research-software
-Global BioImage Analysts' Society,"A worldwide association that brings together all those interested in bioimage analysis","https://www.globias.org",international,bioimaging
-RSE Australia New Zealand (RSE-AUNZ),"RSE Community for Australia New Zealand","https://rse-aunz.org/",international,research-software
-RSE Asia Association,"RSE community for Asian region","https://rse-asia.github.io/RSE_Asia/",international,research-software
-Women in HPC,"An international organization working to improve equity,  diversity and inclusion in High Performance Computing","https://womeninhpc.org/",international,equality-diversity-inclusivity-accessibility
-rainbowR,"rainbowR is a community that supports, promotes and connects LGBTQ+ people who code in the R language","https://rainbowR.netlify.app",international,equality-diversity-inclusivity-accessibility
-RSE Durham University,"The Research Software Engineers (RSEs) in Durham University’s Advanced Research Computing (ARC) unit are here to support researchers with the computational aspects of their work","https://www.durham.ac.uk/research/institutes-and-centres/advanced-research-computing/research-software-engineering/",institutional,research-software
-RSE Newcastle University,"The team's mission is to support the transformation of research at Newcastle through the application of software engineering best practices","https://rse.ncldata.dev/",institutional,research-software
-UCL BioImage Interest Group (BIIG),"To share knowledge,  expertise and foster discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting","https://www.ucl.ac.uk/lmcb/ucl-biig",institutional,bioimaging
-de-RSE,"It is our mission to represent the German Research Software Engineers as a community, in all relevant contexts.","https://de-rse.org/en/index.html",national,research-software
-ELIXIR,"ELIXIR coordinates and develops life science resources across Europe so that researchers can more easily find, analyse and share data, exchange expertise, and implement best practices.","https://elixir-europe.org/",international,life-sciences
-The Carpentries,"Our vision is to be the leading inclusive community teaching data and coding skills.","https://carpentries.org/",international,training
-CodeRefinery,"We are a training network that you can join to share the effort and bring better courses to your community.","https://coderefinery.org/",international,training
-R-Ladies,"R-ladies is a worldwide organization whose mission is to promote gender diversity in the R community.","https://rladies.org",international,equality-diversity-inclusivity-accessibility
-Center for Scientific Collaboration and Community Engagement,"CSCCE is a research and training center to support and study the emerging field of scientific community engagement. ","https://www.cscce.org/",international,community
-Midlands Open Bioimaging,"A collaborative network that facilitates remote training and access to advanced microscopy.","https://midlandsinnovation.org.uk/community/midlands-open-bioimaging/",regional,bioimaging
-OLS,"A not-for-profit organisation dedicated to capacity building and diversifying leadership in research worldwide","https://openlifesci.org/",international,training
-UNIVERSE-HPC,"Understanding and Nurturing an Integrated Vision for Education in RSE and HPC ","http://www.universe-hpc.ac.uk/",national,training
-The Turing Way,"Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.","https://book.the-turing-way.org/",international,community
-Wellcome,"Wellcome supports discovery research into life, health and wellbeing.","https://wellcome.org/",international,life-sciences
+Community name,Description,Website,Scale,Theme
+Software Sustainability Institute,We help people build better software and more sustainable research software to enable world-class research,https://www.software.ac.uk/,national,research-software
+Society of Research Software Engineering,Our mission is to establish a research environment that recognises the vital role of software in research,https://society-rse.org,international,research-software
+Global BioImage Analysts' Society,A worldwide association that brings together all those interested in bioimage analysis,https://www.globias.org,international,bioimaging
+RSE Australia New Zealand (RSE-AUNZ),RSE Community for Australia New Zealand,https://rse-aunz.org/,international,research-software
+RSE Asia Association,RSE community for Asian region,https://rse-asia.github.io/RSE_Asia/,international,research-software
+RSE Durham University,The Research Software Engineers (RSEs) in Durham University’s Advanced Research Computing (ARC) unit are here to support researchers with the computational aspects of their work,https://www.durham.ac.uk/research/institutes-and-centres/advanced-research-computing/research-software-engineering/,institutional,research-software
+RSE Newcastle University,The team's mission is to support the transformation of research at Newcastle through the application of software engineering best practices,https://rse.ncldata.dev/,institutional,research-software
+RSE Midlands,A community of Research Software Engineers (RSEs) within the Midlands in England,https://rse-midlands.github.io/,regional,research-software
+UCL BioImage Interest Group (BIIG),"To share knowledge,  expertise and foster discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting",https://www.ucl.ac.uk/lmcb/ucl-biig,institutional,bioimaging
+Women in HPC,"An international organization working to improve equity,  diversity and inclusion in High Performance Computing",https://womeninhpc.org/,international,equity-diversity-inclusivity-accessibility
+rainbowR,"rainbowR is a community that supports, promotes and connects LGBTQ+ people who code in the R language","https://rainbowR.netlify.app"" ",international,equality-diversity-inclusivity-accessibility
+RSE Durham University,The Research Software Engineers (RSEs) in Durham University’s Advanced Research Computing (ARC) unit are here to support researchers with the computational aspects of their work,https://www.durham.ac.uk/research/institutes-and-centres/advanced-research-computing/research-software-engineering/,institutional,research-software
+RSE Newcastle University,The team's mission is to support the transformation of research at Newcastle through the application of software engineering best practices,https://rse.ncldata.dev/,institutional,research-software
+UCL BioImage Interest Group (BIIG),"To share knowledge,  expertise and foster discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting",https://www.ucl.ac.uk/lmcb/ucl-biig,institutional,bioimaging
+de-RSE,"It is our mission to represent the German Research Software Engineers as a community, in all relevant contexts.",https://de-rse.org/en/index.html,national,research-software
+ELIXIR,"ELIXIR coordinates and develops life science resources across Europe so that researchers can more easily find, analyse and share data, exchange expertise, and implement best practices.",https://elixir-europe.org/,international,life-sciences
+The Carpentries,Our vision is to be the leading inclusive community teaching data and coding skills.,https://carpentries.org/,international,training
+CodeRefinery,We are a training network that you can join to share the effort and bring better courses to your community.,https://coderefinery.org/,international,training
+R-Ladies,R-ladies is a worldwide organization whose mission is to promote gender diversity in the R community.,https://rladies.org,international,equality-diversity-inclusivity-accessibility
+Center for Scientific Collaboration and Community Engagement,"CSCCE is a research and training center to support and study the emerging field of scientific community engagement. ",https://www.cscce.org/,international,community
+Midlands Open Bioimaging,A collaborative network that facilitates remote training and access to advanced microscopy.,https://midlandsinnovation.org.uk/community/midlands-open-bioimaging/,regional,bioimaging
+OLS,A not-for-profit organisation dedicated to capacity building and diversifying leadership in research worldwide,https://openlifesci.org/,international,training
+UNIVERSE-HPC,"Understanding and Nurturing an Integrated Vision for Education in RSE and HPC ",http://www.universe-hpc.ac.uk/,national,training
+The Turing Way,"Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.",https://book.the-turing-way.org/,international,community
+Wellcome,"Wellcome supports discovery research into life, health and wellbeing.",https://wellcome.org/,international,life-sciences

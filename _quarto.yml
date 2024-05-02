@@ -2,13 +2,18 @@ project:
   type: website
 
 website:
-  title: "communers"
+  title: "communeRS"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    right:
+      - text: Home
+        href: index.qmd
+      - communities.qmd
+      - resources.qmd
+      - text: Contributing
+        href: CONTRIBUTING.md
+      - icon: github
+        href: https://github.com/EllaKaye/communers
+  
 format:
   html:
     theme: cosmo
