@@ -41,6 +41,10 @@ This is a [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/col
 
 Feel free to contact the team by [opening a GitHub issue](https://github.com/EllaKaye/communers/issues/new).
 
+## Code of Conduct
+
+This project follows the [Collaborations Workshop 2024 Code of Conduct](https://www.software.ac.uk/cw24-participation-guidelines).
+
 ## Acknowledgement
 
 Logo Icon from [Community manager icons created by Vectors Tank - Flaticon](https://www.flaticon.com/free-icons/community-manager)
