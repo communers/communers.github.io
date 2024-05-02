@@ -48,3 +48,5 @@ This project follows the [Collaborations Workshop 2024 Code of Conduct](https://
 ## Acknowledgement
 
 Logo Icon from [Community manager icons created by Vectors Tank - Flaticon](https://www.flaticon.com/free-icons/community-manager)
+
+Guidance on use of a11y from Mine Cetinkaya Rundel, 2022, Accessibility: a11y theme, https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/posts/29-a11y-theme/
