@@ -3,6 +3,14 @@ title: "communeRS"
 subtitle: A community of research software communities 
 ---
 
+::: aside
+```{r}
+#| echo: false
+knitr::include_graphics(here::here("inst", "figures", "communers-sticker.png"))
+```
+:::
+
+
 This is a [Hack Day](https://www.software.ac.uk/cw24-hack-day) project from [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) organised by the [Software Sustainability Institute](https://www.software.ac.uk).
 
 **Community building is hard.**
