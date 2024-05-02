@@ -1,3 +1,50 @@
 ---
 title: Resources
+execute:
+  echo: false
 ---
+
+
+```{r}
+library(reactable)
+library(htmltools)
+```
+
+```{r}
+resources <- read.csv("resources.csv")
+```
+
+```{r}
+filter_fct <- function(values, name) {
+  tags$select(
+    tags$option(value = "", "All"),
+    purrr::map(unique(values), tags$option),
+    onchange = glue::glue(
+      "Reactable.setFilter(
+        'my-tbl', 
+        '{name}', 
+        event.target.value  // This is the value of the dropdown menu
+      )"
+    ),
+    style = "width: 100%; height: 28px;"
+  )
+}
+```
+
+
+```{r}
+reactable(
+  resources,
+  columns = list(
+    Resource.name = colDef(name = "Resource name"),
+    Description = colDef(name = "Description"),
+    Website = colDef(cell = function(value) {
+      tags$a(href = value, target = "_blank", value)
+    })
+  ),
+  filterable = TRUE,
+  defaultPageSize = 20,
+  elementId = "communities-tbl"
+)
+```
+

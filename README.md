@@ -5,11 +5,25 @@
 
 ## About
 
-<!-- TODO: Paste copy from the website here. -->
+[CommuneRS website](https://ellakaye.github.io/communers/)
 
-## Getting Started
+This is a [Hack Day](https://www.software.ac.uk/cw24-hack-day) project from [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) organised by the [Software Sustainability Institute](https://www.software.ac.uk).
 
-<!-- TODO: Instructions for installation and usage. -->
+**Community building is hard.**
+
+It’s difficult for small groups to get off the ground and maintain momentum once running. 
+Many groups struggle with the same issues. 
+Solutions can benefit the wider community -- so how can community leaders avoid feelings of isolation and reinventing the wheel, and share knowledge and provide support across communities? Moreover, there may be small communities with overlapping interests who are not aware of each other.
+
+*We want community leaders to be able to find each other, support each other and collaborate.*
+
+## Usage
+
+The [CommuneRS website](https://ellakaye.github.io/communers/) provides
+
+- A database of communities
+- A channel for community leaders to communicate
+- A list of resources that support community building
 
 ## Future Work
 
@@ -19,7 +33,7 @@
 
 ## Contributing
 
-See [`CONTRIBUTING.md`](https://github.com/EllaKaye/communers/blob/main/CONTRIBUTING.md) to learn how you can contribute to this project.
+We strongly encourage [contributions](CONTRIBUTING.md) to the database and the resource list. The best way to do that at the moment is by opening an issue or pull request in the [GitHub repo](https://github.com/EllaKaye/communers). In future, we plan to have a Google Form where community leaders can enter their community's details, and have that update the database.
 
 ## License
 
