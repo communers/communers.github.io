@@ -4,7 +4,6 @@ execute:
   echo: false
 ---
 
-
 ```{r}
 library(reactable)
 library(htmltools)
