@@ -28,7 +28,12 @@ filter_fct <- function(values, name) {
     style = "width: 100%; height: 28px;"
   )
 }
-#filter_fct(communities$Level, "Level")
+
+exact_match_fct <- function() {
+  JS("(rows, columnId, filterValue) => {
+        return rows.filter(row => row.values[columnId] === filterValue)
+      }")
+}
 ```
 
 
@@ -45,9 +50,8 @@ reactable(
                     filterInput = filter_fct,
                     # filterMethod contains some JavaScript code
                     # Specifies that the filter should be an exact match
-                    filterMethod = JS("(rows, columnId, filterValue) => {
-        return rows.filter(row => row.values[columnId] === filterValue)
-      }")
+                    # exact_match_fct is defined above
+                    filterMethod = exact_match_fct()
     ),
     Theme = colDef(name = "Theme",
                    filterInput = filter_fct)
