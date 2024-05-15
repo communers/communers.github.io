@@ -42,7 +42,11 @@ reactable(
       tags$a(href = value, target = "_blank", value)
     }),
     Region = colDef(name = "Region",
-                   filterInput = filter_fct),
+                    filterInput = filter_fct,
+                    filterMethod = JS("(rows, columnId, filterValue) => {
+        return rows.filter(row => row.values[columnId] === filterValue)
+      }")
+    ),
     Theme = colDef(name = "Theme",
                    filterInput = filter_fct)
   ),
