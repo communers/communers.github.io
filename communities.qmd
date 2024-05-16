@@ -54,7 +54,9 @@ reactable(
                     filterMethod = exact_match_fct()
     ),
     Theme = colDef(name = "Theme",
-                   filterInput = filter_fct)
+                   filterInput = filter_fct,
+                   filterMethod = exact_match_fct()
+    )
   ),
   filterable = TRUE,
   defaultPageSize = 20,
