@@ -12,7 +12,7 @@ website:
       - text: Contributing
         href: CONTRIBUTING.md
       - icon: github
-        href: https://github.com/EllaKaye/communers
+        href: https://github.com/communers/communers.github.io
   
 format:
   html:
