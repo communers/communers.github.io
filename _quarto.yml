@@ -11,6 +11,8 @@ website:
       - resources.qmd
       - text: Contributing
         href: CONTRIBUTING.md
+      - text: Code of Conduct
+        href: CODE_OF_CONDUCT.md
       - icon: github
         href: https://github.com/communers/communers.github.io
   
